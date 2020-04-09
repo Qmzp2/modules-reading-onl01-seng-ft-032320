@@ -16,6 +16,4 @@
       end
     end
     
-      module MetaDancing
      
-      
